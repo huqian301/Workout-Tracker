@@ -10,7 +10,7 @@ For this assignment, I'll create a workout tracker. It's required to create Mong
 <li>Heroku link: https://happy-workout.herokuapp.com/</li>
 
 ## Output 
-Here is the [Video]() that shows entire page.<br>
+Here is the [Video](https://drive.google.com/file/d/1NM90FAbdNiVJnajCMXoWW2ENfatX-7GD/view?usp=sharing) that shows entire page.<br>
 
 The final page will be look like as below image.
 
